@@ -16,4 +16,3 @@
 < script  src = "p5.collide2d.js" ></ script >  
 </ corpo >
 </ html >
-# Jogo-ping-pong-
